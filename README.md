@@ -1,1 +1,1 @@
-Classifer to seperate front, back, left and right views
+Classifer to seperate front, top, left and right views
